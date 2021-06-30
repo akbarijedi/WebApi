@@ -1,7 +1,8 @@
-# WebApi
-C# .NET WEBAPI to get prayertime in day or all years (Base on university of Tehran calculations)
+# Prayer Times Web API
 
-## Restful Api with Json standars output
+C# .NET WEBAPI to get prayer times in one day or annual (Base on university of Tehran calculations)
+
+## Rest API with JSON standard output
 
 ## Websites for API:
 * https://syber.ir (Primary)
